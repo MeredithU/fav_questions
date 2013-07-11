@@ -1,1 +1,1 @@
-This app will keep track of my favourite questions that I may have about Ruby on Rails. It currently holds two attributes: question and whether that questions is still open or not.
+This app will keep track of my favourite questions that I may have about Ruby on Rails. It currently holds two attributes: question and whether that question has since its publish date been closed.
